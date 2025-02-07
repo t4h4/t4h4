@@ -29,11 +29,12 @@
   </a>
   <!-- Nexus logo -->
   <a href="https://www.sonatype.com/products/repository-oss" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sonatype_nexus/sonatype_nexus-icon.svg" alt="nexus" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_Sonatype_Nexus_Repository.svg" alt="nexus" width="40" height="40"/>
   </a>
   <!-- Ansible logo -->
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
   </a>
 </p>
+
 
